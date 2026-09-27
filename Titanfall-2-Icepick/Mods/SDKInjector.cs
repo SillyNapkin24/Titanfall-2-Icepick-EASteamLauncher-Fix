@@ -25,7 +25,7 @@ namespace Icepick.Mods
 		private const string OriginProcessName = "Origin";
 		private const string EADesktopProcessName = "EADesktop";
 		private const string TitanfallProcessName = "Titanfall2";
-		private const string SteamProxyProcessName = "EASteamProxy";
+		private const string SteamProxyProcessName = "EASteamLauncher";
 		private const string LaunchViaSteamUrl = "steam://run/1237970";
 
 		public const string SDKDllName = "TTF2SDK.dll";
